@@ -14,7 +14,10 @@ and open the template in the editor.
         // put your code here
         ?>
         zmiany w plikuu
-        
+        assass
+        as
+        as
+        ass
         
         
     </body>
